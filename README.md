@@ -1,7 +1,7 @@
 <br>
  </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+HANSAMAL-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+HANSAMAL...❤️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+HANSAMAL-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪☯️...❤️" alt="Typing SVG" /></a>
 
  
   
@@ -12,16 +12,16 @@
 
 <hr>
 <p align="center">
-<a href="https://github.com/cobrs11/HANSAMAL-MD">
-    <img src="https://files.catbox.moe/4y72vl.jpg">
+<a href="https://github.com/Rushmaster12/RUSH-MD">
+    <img src="[https://cdn.ironman.my.id/i/5yp4s8.jpeg]">
   </a>
 
 
     
 
-![forks](https://img.shields.io/github/forks/cobrs11/HANSAMAL-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/Rushmaster12/RUSH-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/cobrs11/HANSAMAL-MD?style=social)
+![stars](https://img.shields.io/github/stars/Rushmaster12/RUSH-MD?style=social)
 
 
 
