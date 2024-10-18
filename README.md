@@ -166,9 +166,9 @@ Stay connected with the latest updates and community by joining our official Wha
 
 ### 🎉🎉DON'T FORGET TO CHECK RUSH-MD 🎉🎉
 
-- **WhatsApp Channel:** [Join Here](https://chat.whatsapp.com/JhKObTTRS569iBWCDtEVDG)
+- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
 
-- **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88)
+- **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp)
 - 
 ## DON'T FORGET TO TO BUY ETHIX COFFEE AND BOT UPDATES 🎉🎉
 - **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
@@ -186,7 +186,7 @@ Stay connected with the latest updates and community by joining our official Wha
 
 
 <a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=80 height=80></a>   
-
+Owner WhatsApp Number:** +917020728211
 
 |**[`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪☯️`](https://github.com/rushmaster12)**|
 
