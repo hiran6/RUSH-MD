@@ -41,7 +41,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
             content: img
           }]
         });
-        m.reply('Profile picture updated successfully.');
+        m.reply('𝚪𝐔𝐒𝚮 𝚳𝐃 Profile picture updated successfully.');
       } catch (err) {
         throw err;
       } finally {
