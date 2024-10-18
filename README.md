@@ -180,8 +180,7 @@ Stay connected with the latest updates and community by joining our official Wha
 
  <br>
  </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+RUSH-MD" alt="Typing SVG" /></a>
+    <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+RUSH-MD" alt="Typing SVG" /></a>
 <p>---
 
  README.MD FILE DONT COPY </p>
