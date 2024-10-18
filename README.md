@@ -174,7 +174,7 @@ Stay connected with the latest updates and community by joining our official Wha
 
 
 
-|**[`IMALKA-HANSAMAL`](https://github.com/cobrs11)**|
+|**[`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪☯️`](https://github.com/rushmaster12)**|
 
 ## 👑 `RUSH-MD BOT OWNER`👨‍💻 
 
