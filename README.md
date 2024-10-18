@@ -13,7 +13,7 @@
 <hr>
 <p align="center">
 <a href="https://github.com/Rushmaster12/RUSH-MD">
-    <img src="[https://cdn.ironman.my.id/i/5yp4s8.jpeg]">
+    <img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg">
   </a>
 
 
