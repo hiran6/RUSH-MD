@@ -160,7 +160,7 @@ Stay connected with the latest updates and community by joining our official Wha
 - 
 ## DON'T FORGET TO TO BUY ETHIX COFFEE AND BOT UPDATES 🎉🎉
 - **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
-- and check his bot ##🚀BOT🎉[https://github.com/Ethix-Xsid/Ethix-MD-V2)
+- and check his bot ##🚀BOT🎉[https://github.com/Rushmaster12/RUSH-MD)
 
 ## ⚠️ Reminder
 
