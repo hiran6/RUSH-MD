@@ -67,6 +67,12 @@ Deploying the bot to Heroku is simple and straightforward. Follow these steps:
 
    <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
 
+3.## DEPLOYMENT METHODS
+
+3. ## Deploy to Koyeb ↓
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=rush-md&type=git&repository=Rushmaster12%2FRUSH-MD&branch=RUSH&builder=dockerfile&env%5BAUTO_REACT%5D=true&env%5BAUTO_STATUS_SEEN%5D=true&env%5BSESSION_ID%5D=&ports=8000%3Bhttp%3B%2F)
+
 ### Deploy to Termux
 
 You can also deploy the bot directly on your Android device using Termux. Here’s how:
